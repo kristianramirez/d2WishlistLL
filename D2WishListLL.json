@@ -1,0 +1,84 @@
+{
+    "description": "Solstice Weapons",
+    "name": "Solstice",
+    "data": [
+        {
+            "description": "All The Rolls for PVE",
+            "hash": 1856262127,
+            "name": "PVE Something New",
+            "plugs": [
+                [
+                    1392496348,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    3523296417,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Rolls for PVP",
+            "hash": 1856262127,
+            "name": "PVP Something New",
+            "plugs": [
+                [
+                    1392496348,
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2621346526
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "PVE Compass Rose Drops",
+            "hash": 2591111628,
+            "name": "PVE Compass Rose",
+            "plugs": [
+                [
+                    1482024992,
+                    1047830412
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    2209918983
+                ],
+                [
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
