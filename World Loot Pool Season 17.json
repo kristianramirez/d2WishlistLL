@@ -1,0 +1,86 @@
+{
+    "description": "World Loot Pool Weapons S17",
+    "name": "World Loot Pool Season 17",
+    "data": [
+        {
+            "description": "For Solar Scorch Builds. If drop has does not have \"Arrowhead Brake\", use \"Counterbalance Stock\". With \"Arrowhead Brake\" Mod is optional.",
+            "hash": 4019668921,
+            "name": "Staccato Solar Scorch",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448,
+                    3661387068,
+                    1467527085,
+                    1392496348,
+                    3250034553,
+                    1840239774
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1168162263,
+                    3400784728,
+                    744594675
+                ],
+                [
+                    4293542123
+                ],
+                [
+                    4008116374
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "If drop has does not have \"Arrowhead Brake\", use \"Counterbalance Stock\". With \"Arrowhead Brake\" Mod is optional.",
+            "hash": 4019668921,
+            "name": "Staccato - General PVE & PVP",
+            "plugs": [
+                [
+                    839105230,
+                    1482024992,
+                    1392496348,
+                    3250034553,
+                    4090651448,
+                    3661387068,
+                    1467527085,
+                    1840239774
+                ],
+                [
+                    3142289711,
+                    3230963543,
+                    106909392,
+                    3177308360
+                ],
+                [
+                    3400784728,
+                    744594675,
+                    1168162263
+                ],
+                [
+                    3425386926,
+                    3038247973,
+                    2848615171,
+                    1048183818
+                ],
+                [
+                    4008116374
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
+            ]
+        }
+    ]
+}
