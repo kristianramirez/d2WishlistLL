@@ -5,7 +5,7 @@
         {
             "description": "All The Rolls for PVE",
             "hash": 1856262127,
-            "name": "PVE Something New",
+            "name": "Something New PVE",
             "plugs": [
                 [
                     1392496348,
@@ -21,8 +21,7 @@
                     3592538738
                 ],
                 [
-                    3523296417,
-                    124408337
+                    3523296417
                 ]
             ],
             "tags": [
@@ -32,7 +31,7 @@
         {
             "description": "Rolls for PVP",
             "hash": 1856262127,
-            "name": "PVP Something New",
+            "name": "Something New PVP",
             "plugs": [
                 [
                     1392496348,
@@ -58,7 +57,7 @@
         {
             "description": "PVE Compass Rose Drops",
             "hash": 2591111628,
-            "name": "PVE Compass Rose",
+            "name": "Compass Rose PVE",
             "plugs": [
                 [
                     1482024992,
@@ -78,6 +77,41 @@
             ],
             "tags": [
                 "GodPVE"
+            ]
+        },
+        {
+            "description": "Something New with Headstone",
+            "hash": 1856262127,
+            "name": "Headstone Rolls",
+            "plugs": [
+                [
+                    1840239774,
+                    1482024992,
+                    1392496348,
+                    202670084
+                ],
+                [
+                    1087426260,
+                    1561002382,
+                    1885400500,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    2779035018,
+                    2621346526,
+                    3592538738
+                ],
+                [
+                    124408337
+                ],
+                [
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "PVP"
             ]
         }
     ]
