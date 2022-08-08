@@ -683,6 +683,21 @@ dimwishlist:item=4225322581&perks=1332244541,791862061,1428297954,788178929,1607
 
 
 
+title:Nightfall Weapons
+description:Rolls for Weapons that drop from Night Falls 
+
+// The Hothead - Hothead Clown (pve,god-pve)
+//notes: Hothead used for Burst DPS in PVE tags:pve,god-pve
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3977735242,2284787283
+
+
+// The Hothead - Hothead Lasting Impression (pve,god-pve)
+//notes: Hothead for Blast Radius tags:pve,god-pve
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3300816228,3927722942
+
+
+
+
 title:Solstice 2022
 description:Solstice Weapons
 
@@ -784,5 +799,6 @@ dimwishlist:item=2591111628&perks=1482024992,106909392,2209918983,2360754333
 dimwishlist:item=2591111628&perks=1047830412,791862061,2209918983,2360754333
 dimwishlist:item=2591111628&perks=1047830412,1087426260,2209918983,2360754333
 dimwishlist:item=2591111628&perks=1047830412,106909392,2209918983,2360754333
+
 
 
